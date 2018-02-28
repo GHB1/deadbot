@@ -1,0 +1,2 @@
+# deadbot
+bot !
